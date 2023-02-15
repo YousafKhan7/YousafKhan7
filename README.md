@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YousafKhan7
-- 👀 I’m interested in Programming and Moblie App Develpment
+- 👀 I’m interested in Programming and Data
 - 🌱 I’m currently learning Computer Science in Pakistan
-- 💞️ I’m looking to collaborate on Programming Related Topics and Learning Environment
+- 💞️ I’m looking to collaborate on Programming, Data Related Topics and Learning Environment
 - 📫 my Email yousaf0007khan@gmail.com
 
 <!---
