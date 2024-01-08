@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YousafKhan7
-- 👀 I’m interested in Programming and Data
-- 🌱 I’m currently learning Computer Science in Pakistan
-- 💞️ I’m looking to collaborate on Programming, Data Related Topics and Learning Environment
-- 📫 my Email yousaf0007khan@gmail.com
+- 👀 Interested in Programming and Data
+- 🌱 Currently learning Computer Science in Pakistan
+- 💞️ Looking to collaborate on Programming, Data Related Topics and Learning Environment
+- 📫 Email yousaf0007khan@gmail.com
 
 <!---
 YousafKhan7/YousafKhan7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
