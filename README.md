@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @YousafKhan7
-- 👀 Interested in Programming and Data
-- 🌱 Currently learning Computer Science in Pakistan
+- 👀 Interested in Programming and Data Analyzing
+- 🌱 Currently studying Computer Science in Pakistan
 - 💞️ Looking to collaborate on Programming, Data Related Topics and Learning Environment
+- I am Cinema lover as well a social worker.
 - 📫 Email yousaf0007khan@gmail.com
 
 <!---
