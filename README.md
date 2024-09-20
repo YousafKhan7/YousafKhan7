@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YousafKhan7
-- 👀 Interested in Programming and Data Analyzing
-- 🌱 Currently studying Computer Science in Pakistan
-- 💞️ Looking to collaborate on Programming, Data Related Topics and Learning Environment
+- 👀 Interested in Programming specially the web dev
+- 🌱 Currently working as an intern at @madixsoft
+- 💞️ Looking to collaborate on Programming and web dev.
 - I am Cinema lover as well a social worker.
 - 📫 Email yousaf0007khan@gmail.com
 
