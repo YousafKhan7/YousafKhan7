@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YousafKhan7
 - 👀 Interested in Programming specially the web dev
-- 🌱 Currently working as an intern at @madixsoft
+- 🌱 Currently working as a full stack typescript lambda dev at @Natuvea
 - 💞️ Looking to collaborate on Programming and web dev.
 - I am Cinema lover as well a social worker.
 - 📫 Email yousaf0007khan@gmail.com
