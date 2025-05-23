@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YousafKhan7
-- 👀 Interested in Programming specially the web dev
-- 🌱 Currently working as a full stack typescript lambda dev at @Natuvea
-- 💞️ Looking to collaborate on Programming and web dev.
-- I am Cinema lover as well a social worker.
+- 👀 Interested in Programming specially the web development. 
+- 🌱 Currently working as a Software Engineer at @Natuvea
+- 💞️ Looking to collaborate on Programming and web development.
+- A Cinephile.
 - 📫 Email yousaf0007khan@gmail.com
 
 <!---
